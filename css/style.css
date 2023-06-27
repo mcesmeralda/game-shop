@@ -239,6 +239,17 @@ footer div h4 {
   margin-left: 16px;
  
 }
+footer div h4 {
+  color: var(--colorTercero);
+  font-size: 26px;
+  font-weight: 700;
+}
+
+footer div h4 span {
+  color: var(--colorSecundario);
+  font-size: 26px;
+  font-weight: 400;
+}
 
 
 
